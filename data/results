@@ -1,0 +1,5 @@
+chapter_links.csv - list of website sections
+product_links.csv - list of product page links
+products.csv - result products data.
+*_tmp files - temporary files with current data. In case the scripts restart continue with last item
+(product link or product)
