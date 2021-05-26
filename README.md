@@ -11,4 +11,4 @@ you need to set your values of CHAT_ID and BOT_TOKEN. Look at telegram_notify.py
 Result of scripts working (.scv) will be in /data. To run scripts you need setup the python envieroment, requirements and start luigid. Look at the ikea_pipeline.py (below) for finding out of start script commands. 
 Result of scripts working (.scv) will be in /data.</p>
 The result of the work can be seen on the <a href='https://public.tableau.com/profile/alexander.feldman8264#!/vizhome/SearchIkeaILproducts/SearchIkeaIsraelProducts'>
-Tableau dashboard</a>
+Tableau dashboard</a>.
