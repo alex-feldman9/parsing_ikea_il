@@ -2,6 +2,7 @@
  
 <p>This project allows you to collect information about products from the <a href='https://www.ikea.co.il
 '> www.ikea.co.il</a> website.</p>
+<p>Script can be run by Window or Linux OS</p>
 <p>
 The scripts use the <a href='https://www.selenium.dev/selenium/docs/api/py/'> Selenium</a> library. 
 The scripts are launched using a pipeline built on the <a href='https://github.com/spotify/luigi'>Luigi framework</a>. 
